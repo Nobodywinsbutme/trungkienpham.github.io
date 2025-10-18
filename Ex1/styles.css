@@ -1,0 +1,33 @@
+header{
+    font-size: 30px;
+    color: black;
+    font-style: Bold;
+    font-family: 'Roboto';
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color: black;
+    font-style: Bold;
+    font-family: 'Roboto';
+}
+h2{
+    font-size: 20px;
+    color: green;
+    font-style: Italic;
+    font-family: 'Roboto';
+}
+aside{
+    float: right;
+    margin-right: 10px;
+    
+}
+.container {
+    border: 2px solid rgb(185, 185, 185);
+    padding: 20px;
+    background: var(white);
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+    box-shadow: var(0 6px 24px rgba(31, 41, 55, 0.08));
+}
